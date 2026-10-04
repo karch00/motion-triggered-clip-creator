@@ -3,6 +3,7 @@ This is a personal project meant to be integrated alongside my webcam video serv
 to create automatic clips triggered by motion.
 
 > [!WARNING] DISCLAIMER
+> 
 > Camera is, of course, pointed at private property and with all public property
 > masked with post-effects for privacy.
 
